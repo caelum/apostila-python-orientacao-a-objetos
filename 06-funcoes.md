@@ -464,4 +464,6 @@ Ao importar o arquivo forca.py, estamos importando um **módulo** de nosso progr
 	print(type(forca))
 	<class 'module'>
 
-`
+```
+
+Veja que o tipo é um **módulo**. Antes de continuarmos com nosso jogo, vamos aprender um pouco mais sobre arquivos e módulos. Vamos melhorar ainda mais nosso jogo da Forca e utilizar o que aprendemos de funções para organizar nosso código.

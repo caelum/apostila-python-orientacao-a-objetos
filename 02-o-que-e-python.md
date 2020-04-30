@@ -257,4 +257,8 @@ Neste caso não é uma exceção ou erro, a não ser que você digite qualquer o
     print(Minha primeira aplicação Python!)
                      ^
 	SyntaxError: invalid syntax
- `
+ ```
+
+Mais uma vez acusa erro de sintaxe.
+
+Estes foram alguns erros que o programa pode gerar por desatenção do programador. São mais comuns de acontecer do que se imagina. Outros erros serão abordados em um capítulo específico desta apostila. Neste momento, iremos aprender outros recursos que a linguagem Python oferece, e nos familiarizar com sua sintaxe.

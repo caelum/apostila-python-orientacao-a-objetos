@@ -1118,4 +1118,4 @@ Tanto o `while` quanto o `for` podem ser usados no jogo. Conseguiremos o mesmo r
 
 1. (opcional) Crie um nível de dificuldade para o jogo. Crie uma variável chamada `nível` e peça para o usuário escolher em qual nível ele deseja jogar. O nível é mensurável de acordo com o total de tentativas: nível 1(tentativas = 20), nível 2(tentativas = 10) e nível 3 (tentativas = 5).
 
-1. (opcional) Acrescente um total de pontos ao jogador que deve iniciar com 1000 e a cada chute errado deve ser subtraído do total de pontos um valor que corresponde a diferença entre o chute e o número secreto. Para este exercício você vai precisar da função `abs()`
+1. (opcional) Acrescente um total de pontos ao jogador que deve iniciar com 1000 e a cada chute errado deve ser subtraído do total de pontos um valor que corresponde a diferença entre o chute e o número secreto. Para este exercício você vai precisar da função `abs()`. Veja na documentação do Python como ela funciona.

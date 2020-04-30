@@ -90,4 +90,4 @@ No Python3 essa herança é implícita, não precisando herdar explicitamente de
 	>>> class MinhaClasse():
 		def metodo(self, attr1, attr2):
 			return attr1 + attr2
- `
+ ```

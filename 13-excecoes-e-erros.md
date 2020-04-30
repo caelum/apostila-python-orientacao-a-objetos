@@ -677,4 +677,8 @@ Um dos erros mais comuns é o **SyntaxError**. Geralmente suas mensagens não di
 São descobertos quando o interpretador está traduzindo o código fonte para o bytecode. Indicam que há algo de errado com a estrutura do programa. Por exemplo: esquecer de fechar aspas, simples ou duplas, na hora de imprimir um mensagem; esquecer de colocar dois pontos (":") ao final de uma instrução `if`, `while` ou `for`, etc...
 
 * **Erro semântico**
-Este erro é quando o programa não se comporta como esperado. Aqui não é lançada uma exceção, o programa apenas não faz a coisa certa. São mais difíceis de encontrar porque o interpretador não fornece nenhuma informação já que não sabe o que o programa deveria fazer. São erros na regra de negócio. Utilizar a função `print()`
+Este erro é quando o programa não se comporta como esperado. Aqui não é lançada uma exceção, o programa apenas não faz a coisa certa. São mais difíceis de encontrar porque o interpretador não fornece nenhuma informação já que não sabe o que o programa deveria fazer. São erros na regra de negócio. Utilizar a função `print()` em alguns lugares do código onde você suspeita que está gerando o erro pode ajudar.
+
+> ## Para saber mais - depurador do Python
+> O depurador do Python, o pdb, é um módulo embutido que funciona como um console interativo onde é possível realizar debug de códigos python. Você pode ler mais a respeito na documentação: https://docs.python.org/3/library/pdb.html
+> 

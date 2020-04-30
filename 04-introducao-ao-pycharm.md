@@ -75,4 +75,37 @@ Repare que o console também possui a ferramenta de autocomplete. Para reiniciá
 
 A IDE também permite abrir o terminal e usar o modo interativo para testes. O atalho para abrir o terminal é `ALT + F12`. O Python Console do Pycharm é mais aconselhável para isso e o terminal é mais utilizado para instalar novas libs ao seu projeto.
 
-Para executar vá em `Run -> Run` ou clique com o botão direito do mouse no interior do arquivo _adivinhacao_ e escolha a opção `Run 'adivinhacao'`. Ou ainda, digite o atalho `CTRL+Shift+F10`
+Para executar vá em `Run -> Run` ou clique com o botão direito do mouse no interior do arquivo _adivinhacao_ e escolha a opção `Run 'adivinhacao'`. Ou ainda, digite o atalho `CTRL+Shift+F10` que vai ter o mesmo efeito. Depois de ter rodado pela primeira vez, para você rodar novamente basta clicar no ícone de uma pequena seta verde no menu superior da IDE:
+
+![ {w=60%}](assets/images/cap9/adivinhacao.png)
+
+
+## Principais Atalhos
+
+O Pycharm possui muitos atalhos úteis na hora de desenvolver. Abaixo estão os principais deles para você conhecer e praticar:
+
+* ALT + INSERT: cria novo arquivo
+
+* ALT + ENTER: sugere ações e conserta erros rápidos
+
+* CTRL + ESPAÇO: autocomplete
+
+* CTRL + N: busca classes
+
+* CTRL + SHIFT + N: busca arquivos
+
+* CTRL + ALT + M: extrair código para um método
+
+* CTRL + ALT + V: extrair para uma variável
+
+* CTRL + ALT + SHIFT + T: refatoração (renomear)
+
+* CTRL + A: seleciona tudo
+
+* CTRL + SHIFT + LEFT/RIGHT: seleciona parte do texto a esquerda ou a direita.
+
+* CTRL + SHIFT + PAGE DOWN/PAGE UP - move linha para cima ou para baixo
+
+* ALT + J: procura próxima palavra selecionada
+
+A JetBrains fez uma tabela com todos os atalhos que você pode checar neste link: resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf

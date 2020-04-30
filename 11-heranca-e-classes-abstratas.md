@@ -892,4 +892,4 @@ Não conseguimos instanciar uma subclasse de `Funcionario` sem implementar o mé
     print(ci.saldo)
     ```
 
-1. (opcional) Crie um atributo `tipo` nas classes `ContaCorrente`, `ContaPoupanca` e `ContaInvestimento`. Faça com que o `tipo` também seja impresso quando usamos a função `print()`
+1. (opcional) Crie um atributo `tipo` nas classes `ContaCorrente`, `ContaPoupanca` e `ContaInvestimento`. Faça com que o `tipo` também seja impresso quando usamos a função `print()`.

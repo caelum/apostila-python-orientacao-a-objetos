@@ -184,4 +184,9 @@ No próximo exercício, vamos criar nosso primeiro projeto do banco e nossa clas
 
 1. Crie duas contas e teste os métodos que você criou no exercício anterior.
 
-1. (Opcional) Crie um arquivo python chamado `cliente.py` e crie a classe `Cliente` com `nome`, `sobrenome` e `cpf`. Teste o código passando um cliente como titular de um `Conta`
+1. (Opcional) Crie um arquivo python chamado `cliente.py` e crie a classe `Cliente` com `nome`, `sobrenome` e `cpf`. Teste o código passando um cliente como titular de um `Conta`. Aproveite e adicione alguns métodos a ela.
+
+Veja que a IDE facilita bastante na hora do desenvolvimento e ganhamos tempo também rodando o script diretamente no PyCharm.
+
+
+

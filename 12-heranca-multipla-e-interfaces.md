@@ -715,4 +715,5 @@ O Python já vem com algumas estruturas abstratas (ver módulos collections, num
         print(total)
     ``` 
 
-Neste capítulo, aprendemos sobre herança múltipla e suas desvantagens mesmo utilizando *mix-ins*. Além disso, aprendemos a utilizar classes abstratas como interfaces registrando as classes e evitando os problemas com a herança múltipla. Agora nossa classe abstrata `Tributavel
+Neste capítulo, aprendemos sobre herança múltipla e suas desvantagens mesmo utilizando *mix-ins*. Além disso, aprendemos a utilizar classes abstratas como interfaces registrando as classes e evitando os problemas com a herança múltipla. Agora nossa classe abstrata `Tributavel` funciona como um protocolo. No capítulo sobre o módulo _collections_, veremos na prática alguns conceitos vistos neste capítulo.
+

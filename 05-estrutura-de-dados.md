@@ -1061,4 +1061,4 @@ Vamos tentar resolver alguns desafios. Dada a lista = [12, -2, 4, 8, 29, 45, 78,
         print("Número de ocorrências do primeiro item: " + str(ocorrenciasItem1))
         print("Média dos elementos: " + str(mediaElementos))
         print("Somatório dos valores negativos:" + str(somaNegativos))
-    `
+    ```

@@ -68,4 +68,10 @@ A maneira mais fácil de instalar o Python3 no MacOS é utilizando o `Homebrew`.
  ```python
 	brew update
 	brew install python3
- `
+ ```
+
+## Outras formas de utilizar o Python
+
+Podemos rodar o Python diretamente do seu próprio Prompt.
+
+Podemos procurar pelo Python na caixa de pesquisa do Windows e abri-lo, assim o seu console próprio será aberto. Uma outra forma é abrir a IDLE do Python, que se parece muito com o console mas vem com um menu que possui algumas opções extras.

@@ -683,4 +683,10 @@ E copie o conteúdo do código da função `desenha_forca()` do arquivo funcoes 
 
     enforcou = erros == 7
     acertou = "_" not in letras_acertadas
-`
+```
+
+1. Tente fazer o mesmo com o jogo da adivinhação, refatore partes do código e isole em funções. Além disso, use sua criatividade para customizar mensagens para o usuário do seu jogo.
+
+Neste exercício, praticamos bastante do que aprendemos no capítulo de função e finalizamos o jogo da forca.
+
+Você pode estar se perguntando por que encapsulamos uma simples linha de código em uma função. Fizemos isso somente para deixar claro o que estamos fazendo, melhorando a **legibilidade do código**. Mas precisamos tomar cuidado com a criação de funções, pois criar funções desnecessariamente pode aumentar a complexidade do código.

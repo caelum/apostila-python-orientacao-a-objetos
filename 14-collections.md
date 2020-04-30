@@ -643,4 +643,12 @@ As classes ABCs foram criadas para encapsular conceitos genéricos e abstraçõe
 
 1. (Opcional) Faça o mesmo com as contas poupanças. Crie um arquivo com extensão `.csv` com algumas contas poupanças, faça a leitura, construa os objetos e acrescente em uma estrutura de dados do tipo `MutableSequence`. 
 
-1. (Desafio Opcional) Refaça o exercício utilizando `MutableMapping` ao invés de `MutableSequence`
+1. (Desafio Opcional) Refaça o exercício utilizando `MutableMapping` ao invés de `MutableSequence`.
+
+
+
+
+
+
+
+
