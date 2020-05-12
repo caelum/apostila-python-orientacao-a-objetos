@@ -1,0 +1,205 @@
+-
+  title: "Como aprender Python"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/01-como-aprender-python.md
+  slug: como-aprender-python
+  sections:
+    - "O que é realmente importante?"
+    - "Sobre os exercícios"
+    - "Tirando dúvidas e indo além"
+-
+  title: "O que é Python"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/02-o-que-e-python.md
+  slug: o-que-e-python
+  sections:
+    - "Python"
+    - "Breve História"
+    - "Interpretador"
+    - "Qual versão utilizar?"
+    - "Download"
+    - "Cpython, Jython, IronPython?"
+    - "PEP - O que são e pra que servem"
+    - "Onde usar e objetivos"
+    - "Primeiro programa"
+    - "Modo Interativo"
+    - "Modo Script"
+    - "Exercício: Modificando o programa"
+    - "O que pode dar errado?"
+-
+  title: "Variáveis e tipos embutidos"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/03-declarando-e-usando-variaveis.md
+  slug: declarando-e-usando-variaveis
+  sections:
+    - "Tipos embutidos (_built-ins_)"
+    - "Variáveis"
+    - "Para saber mais: Nomes de variáveis"
+    - "Instruções"
+    - "Operadores Aritméticos"
+    - "Strings"
+    - "Entrada do usuário"
+    - "Constantes"
+    - "Comando if"
+    - "Convertendo uma string para inteiro"
+    - "O comando elif"
+    - "Exercícios - Jogo da adivinhação"
+    - "Comando while"
+    - "Exercícios - Jogo com while"
+    - "Comando for"
+    - "Exercícios - Utilizando o for no jogo"
+-
+  title: "Introdução ao Pycharm"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/04-introducao-ao-pycharm.md
+  slug: introducao-ao-pycharm
+  sections:
+    - "IDE"
+    - "Pycharm"
+    - "Download e Instalação do PyCharm"
+    - "Criando um Projeto"
+    - "Executando código"
+    - "Principais Atalhos"
+-
+  title: "Estrutura de dados"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/05-estrutura-de-dados.md
+  slug: estrutura-de-dados
+  sections:
+    - "Exercícios: Jogo da Forca"
+    - "Sequências"
+    - "Conjuntos"
+    - "Dicionários"
+    - "Exercícios: Estrutura de dados"
+-
+  title: "Funções"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/06-funcoes.md
+  slug: funcoes
+  sections:
+    - "O que é uma função?"
+    - "Parâmetros de Função"
+    - "Função com retorno"
+    - "Retornando múltiplos valores"
+    - "Exercícios: Funções"
+    - "Número arbitrário de parâmetros (*args)"
+    - "Número arbitrário de chaves (**kwargs) "
+    - "Exercício - \*args e \*\*kwargs"
+    - "Exercício - Função jogar()"
+    - "Módulos e o comando import"
+-
+  title: "Arquivos"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/07-arquivos-e-modulos.md
+  slug: arquivos-e-modulos
+  sections:
+    - "Escrita de um arquivo"
+    - "Fechando um arquivo"
+    - "Escrevendo palavras em novas linhas"
+    - "Exercícios"
+    - "Lendo um arquivo"
+    - "Lendo linha por linha do arquivo"
+    - "Gerando um número aleatório"
+    - "Exercícios - Leitura de arquivos"
+    - "Para saber mais - comando with"
+    - "Melhorando nosso código"
+    - "Exercício - Refatorando o jogo da Forca"
+-
+  title: "Orientação a Objetos"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/08-orientacao-a-objetos.md
+  slug: orientacao-a-objetos
+  sections:
+    - "Funcionalidades"
+    - "Exercício: Criando uma conta"
+    - "Classes e Objetos"
+    - "Construtor"
+    - "Métodos"
+    - "Métodos com retorno"
+    - "Objetos são acessados por referência"
+    - "Método transfere"
+    - "Continuando com atributos"
+    - "Tudo é objeto"
+    - "Composição"
+    - "Para saber mais: outros métodos de uma classe"
+    - "Exercício: Primeira classe Python"
+-
+  title: "Modificadores de acesso e métodos de classe"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/09-encapsulamento.md
+  slug: encapsulamento
+  sections:
+    - "Encapsulamento"
+    - "Atributos de classe"
+    - "Métodos de classe"
+    - "Para saber mais - Slots"
+    - "Exercícios:"
+-
+  title: "Pycharm e Orientação a objetos"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/10-pycharm-ide.md
+  slug: pycharm-ide
+  sections:
+    - "Criando um Projeto"
+    - "Criando uma classe"
+    - "Executando código"
+    - "Criando métodos"
+    - "Exercício - Criando projeto banco no PyCharm"
+-
+  title: "Herança e Polimorfismo"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/11-heranca-e-classes-abstratas.md
+  slug: heranca-e-classes-abstratas
+  sections:
+    - "Repetindo código?"
+    - "Reescrita de métodos"
+    - "Invocando o método reescrito"
+    - "Polimorfismo"
+    - "Duck Typing"
+    - "Exercício: Herança e Polimorfismo"
+    - "Classes Abstratas"
+    - "Exercícios - classes abstratas"
+-
+  title: "Herança Múltipla e Interfaces"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/12-heranca-multipla-e-interfaces.md
+  slug: heranca-multipla-e-interfaces
+  sections:
+    - "Problema do diamante "
+    - "Mix-ins "
+    - "Para sabe mais -  Tkinter"
+    - "Exercícios - Mix-Ins"
+    - "Interfaces"
+    - "(Opcional) Exercícios - Interfaces e classes Abstratas"
+-
+  title: "Exceções e Erros"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/13-excecoes-e-erros.md
+  slug: excecoes-e-erros
+  sections:
+    - "Exceções e tipos de erros"
+    - "Tratando Exceções"
+    - "Levantando exceções"
+    - "Definir uma Exceção"
+    - "Para saber mais: finally"
+    - "Árvore de Exceções"
+    - "Exercícios: Exceções"
+    - "Outros Erros"
+-
+  title: "Collections"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/14-collections.md
+  slug: collections
+  sections:
+    - "UserList, UserDict e UserString"
+    - "Para saber mais"
+    - "Collections abc"
+    - "Construindo um Container"
+    - "Sized"
+    - "Iterable "
+    - "Exercício: Criando nossa Sequência"
+-
+  title: "Apêndice - Python2 ou Python3?"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/15-apendice-versao.md
+  slug: apendice-versao
+  sections:
+    - "Quais as diferenças?"
+    - "A função print()"
+    - "A função input()"
+    - "Divisão decimal"
+    - "Herança"
+-
+  title: "Apêndice - Instalação"
+  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/16-apendice-instalacao.md
+  slug: apendice-instalacao
+  sections:
+    - "Instalando o Python no Windows"
+    - "Instalando o Python no Linux"
+    - "Instalando o Python no MacOS"
+    - "Outras formas de utilizar o Python"
