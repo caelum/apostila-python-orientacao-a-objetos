@@ -1,6 +1,6 @@
 -
   title: "Como aprender Python"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/01-como-aprender-python.md
+  filename: 01-como-aprender-python.md
   slug: como-aprender-python
   sections:
     - "O que é realmente importante?"
@@ -8,7 +8,7 @@
     - "Tirando dúvidas e indo além"
 -
   title: "O que é Python"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/02-o-que-e-python.md
+  filename: 02-o-que-e-python.md
   slug: o-que-e-python
   sections:
     - "Python"
@@ -26,7 +26,7 @@
     - "O que pode dar errado?"
 -
   title: "Variáveis e tipos embutidos"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/03-declarando-e-usando-variaveis.md
+  filename: 03-declarando-e-usando-variaveis.md
   slug: declarando-e-usando-variaveis
   sections:
     - "Tipos embutidos (_built-ins_)"
@@ -47,7 +47,7 @@
     - "Exercícios - Utilizando o for no jogo"
 -
   title: "Introdução ao Pycharm"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/04-introducao-ao-pycharm.md
+  filename: 04-introducao-ao-pycharm.md
   slug: introducao-ao-pycharm
   sections:
     - "IDE"
@@ -58,7 +58,7 @@
     - "Principais Atalhos"
 -
   title: "Estrutura de dados"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/05-estrutura-de-dados.md
+  filename: 05-estrutura-de-dados.md
   slug: estrutura-de-dados
   sections:
     - "Exercícios: Jogo da Forca"
@@ -68,7 +68,7 @@
     - "Exercícios: Estrutura de dados"
 -
   title: "Funções"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/06-funcoes.md
+  filename: 06-funcoes.md
   slug: funcoes
   sections:
     - "O que é uma função?"
@@ -83,7 +83,7 @@
     - "Módulos e o comando import"
 -
   title: "Arquivos"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/07-arquivos-e-modulos.md
+  filename: 07-arquivos-e-modulos.md
   slug: arquivos-e-modulos
   sections:
     - "Escrita de um arquivo"
@@ -99,7 +99,7 @@
     - "Exercício - Refatorando o jogo da Forca"
 -
   title: "Orientação a Objetos"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/08-orientacao-a-objetos.md
+  filename: 08-orientacao-a-objetos.md
   slug: orientacao-a-objetos
   sections:
     - "Funcionalidades"
@@ -117,7 +117,7 @@
     - "Exercício: Primeira classe Python"
 -
   title: "Modificadores de acesso e métodos de classe"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/09-encapsulamento.md
+  filename: 09-encapsulamento.md
   slug: encapsulamento
   sections:
     - "Encapsulamento"
@@ -127,7 +127,7 @@
     - "Exercícios:"
 -
   title: "Pycharm e Orientação a objetos"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/10-pycharm-ide.md
+  filename: 10-pycharm-ide.md
   slug: pycharm-ide
   sections:
     - "Criando um Projeto"
@@ -137,7 +137,7 @@
     - "Exercício - Criando projeto banco no PyCharm"
 -
   title: "Herança e Polimorfismo"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/11-heranca-e-classes-abstratas.md
+  filename: 11-heranca-e-classes-abstratas.md
   slug: heranca-e-classes-abstratas
   sections:
     - "Repetindo código?"
@@ -150,7 +150,7 @@
     - "Exercícios - classes abstratas"
 -
   title: "Herança Múltipla e Interfaces"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/12-heranca-multipla-e-interfaces.md
+  filename: 12-heranca-multipla-e-interfaces.md
   slug: heranca-multipla-e-interfaces
   sections:
     - "Problema do diamante "
@@ -161,7 +161,7 @@
     - "(Opcional) Exercícios - Interfaces e classes Abstratas"
 -
   title: "Exceções e Erros"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/13-excecoes-e-erros.md
+  filename: 13-excecoes-e-erros.md
   slug: excecoes-e-erros
   sections:
     - "Exceções e tipos de erros"
@@ -174,7 +174,7 @@
     - "Outros Erros"
 -
   title: "Collections"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/14-collections.md
+  filename: 14-collections.md
   slug: collections
   sections:
     - "UserList, UserDict e UserString"
@@ -186,7 +186,7 @@
     - "Exercício: Criando nossa Sequência"
 -
   title: "Apêndice - Python2 ou Python3?"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/15-apendice-versao.md
+  filename: 15-apendice-versao.md
   slug: apendice-versao
   sections:
     - "Quais as diferenças?"
@@ -196,7 +196,7 @@
     - "Herança"
 -
   title: "Apêndice - Instalação"
-  filename: /home/gitlab-runner/builds/DH6ZLZ_9/0/aovs/apostilas/PY-14/apostila-aberta/16-apendice-instalacao.md
+  filename: 16-apendice-instalacao.md
   slug: apendice-instalacao
   sections:
     - "Instalando o Python no Windows"
