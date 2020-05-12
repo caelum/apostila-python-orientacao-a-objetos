@@ -1,205 +1,209 @@
--
-  title: "Como aprender Python"
-  filename: 01-como-aprender-python.md
-  slug: como-aprender-python
-  sections:
-    - "O que é realmente importante?"
-    - "Sobre os exercícios"
-    - "Tirando dúvidas e indo além"
--
-  title: "O que é Python"
-  filename: 02-o-que-e-python.md
-  slug: o-que-e-python
-  sections:
-    - "Python"
-    - "Breve História"
-    - "Interpretador"
-    - "Qual versão utilizar?"
-    - "Download"
-    - "Cpython, Jython, IronPython?"
-    - "PEP - O que são e pra que servem"
-    - "Onde usar e objetivos"
-    - "Primeiro programa"
-    - "Modo Interativo"
-    - "Modo Script"
-    - "Exercício: Modificando o programa"
-    - "O que pode dar errado?"
--
-  title: "Variáveis e tipos embutidos"
-  filename: 03-declarando-e-usando-variaveis.md
-  slug: declarando-e-usando-variaveis
-  sections:
-    - "Tipos embutidos (_built-ins_)"
-    - "Variáveis"
-    - "Para saber mais: Nomes de variáveis"
-    - "Instruções"
-    - "Operadores Aritméticos"
-    - "Strings"
-    - "Entrada do usuário"
-    - "Constantes"
-    - "Comando if"
-    - "Convertendo uma string para inteiro"
-    - "O comando elif"
-    - "Exercícios - Jogo da adivinhação"
-    - "Comando while"
-    - "Exercícios - Jogo com while"
-    - "Comando for"
-    - "Exercícios - Utilizando o for no jogo"
--
-  title: "Introdução ao Pycharm"
-  filename: 04-introducao-ao-pycharm.md
-  slug: introducao-ao-pycharm
-  sections:
-    - "IDE"
-    - "Pycharm"
-    - "Download e Instalação do PyCharm"
-    - "Criando um Projeto"
-    - "Executando código"
-    - "Principais Atalhos"
--
-  title: "Estrutura de dados"
-  filename: 05-estrutura-de-dados.md
-  slug: estrutura-de-dados
-  sections:
-    - "Exercícios: Jogo da Forca"
-    - "Sequências"
-    - "Conjuntos"
-    - "Dicionários"
-    - "Exercícios: Estrutura de dados"
--
-  title: "Funções"
-  filename: 06-funcoes.md
-  slug: funcoes
-  sections:
-    - "O que é uma função?"
-    - "Parâmetros de Função"
-    - "Função com retorno"
-    - "Retornando múltiplos valores"
-    - "Exercícios: Funções"
-    - "Número arbitrário de parâmetros (*args)"
-    - "Número arbitrário de chaves (**kwargs) "
-    - "Exercício - \*args e \*\*kwargs"
-    - "Exercício - Função jogar()"
-    - "Módulos e o comando import"
--
-  title: "Arquivos"
-  filename: 07-arquivos-e-modulos.md
-  slug: arquivos-e-modulos
-  sections:
-    - "Escrita de um arquivo"
-    - "Fechando um arquivo"
-    - "Escrevendo palavras em novas linhas"
-    - "Exercícios"
-    - "Lendo um arquivo"
-    - "Lendo linha por linha do arquivo"
-    - "Gerando um número aleatório"
-    - "Exercícios - Leitura de arquivos"
-    - "Para saber mais - comando with"
-    - "Melhorando nosso código"
-    - "Exercício - Refatorando o jogo da Forca"
--
-  title: "Orientação a Objetos"
-  filename: 08-orientacao-a-objetos.md
-  slug: orientacao-a-objetos
-  sections:
-    - "Funcionalidades"
-    - "Exercício: Criando uma conta"
-    - "Classes e Objetos"
-    - "Construtor"
-    - "Métodos"
-    - "Métodos com retorno"
-    - "Objetos são acessados por referência"
-    - "Método transfere"
-    - "Continuando com atributos"
-    - "Tudo é objeto"
-    - "Composição"
-    - "Para saber mais: outros métodos de uma classe"
-    - "Exercício: Primeira classe Python"
--
-  title: "Modificadores de acesso e métodos de classe"
-  filename: 09-encapsulamento.md
-  slug: encapsulamento
-  sections:
-    - "Encapsulamento"
-    - "Atributos de classe"
-    - "Métodos de classe"
-    - "Para saber mais - Slots"
-    - "Exercícios:"
--
-  title: "Pycharm e Orientação a objetos"
-  filename: 10-pycharm-ide.md
-  slug: pycharm-ide
-  sections:
-    - "Criando um Projeto"
-    - "Criando uma classe"
-    - "Executando código"
-    - "Criando métodos"
-    - "Exercício - Criando projeto banco no PyCharm"
--
-  title: "Herança e Polimorfismo"
-  filename: 11-heranca-e-classes-abstratas.md
-  slug: heranca-e-classes-abstratas
-  sections:
-    - "Repetindo código?"
-    - "Reescrita de métodos"
-    - "Invocando o método reescrito"
-    - "Polimorfismo"
-    - "Duck Typing"
-    - "Exercício: Herança e Polimorfismo"
-    - "Classes Abstratas"
-    - "Exercícios - classes abstratas"
--
-  title: "Herança Múltipla e Interfaces"
-  filename: 12-heranca-multipla-e-interfaces.md
-  slug: heranca-multipla-e-interfaces
-  sections:
-    - "Problema do diamante "
-    - "Mix-ins "
-    - "Para sabe mais -  Tkinter"
-    - "Exercícios - Mix-Ins"
-    - "Interfaces"
-    - "(Opcional) Exercícios - Interfaces e classes Abstratas"
--
-  title: "Exceções e Erros"
-  filename: 13-excecoes-e-erros.md
-  slug: excecoes-e-erros
-  sections:
-    - "Exceções e tipos de erros"
-    - "Tratando Exceções"
-    - "Levantando exceções"
-    - "Definir uma Exceção"
-    - "Para saber mais: finally"
-    - "Árvore de Exceções"
-    - "Exercícios: Exceções"
-    - "Outros Erros"
--
-  title: "Collections"
-  filename: 14-collections.md
-  slug: collections
-  sections:
-    - "UserList, UserDict e UserString"
-    - "Para saber mais"
-    - "Collections abc"
-    - "Construindo um Container"
-    - "Sized"
-    - "Iterable "
-    - "Exercício: Criando nossa Sequência"
--
-  title: "Apêndice - Python2 ou Python3?"
-  filename: 15-apendice-versao.md
-  slug: apendice-versao
-  sections:
-    - "Quais as diferenças?"
-    - "A função print()"
-    - "A função input()"
-    - "Divisão decimal"
-    - "Herança"
--
-  title: "Apêndice - Instalação"
-  filename: 16-apendice-instalacao.md
-  slug: apendice-instalacao
-  sections:
-    - "Instalando o Python no Windows"
-    - "Instalando o Python no Linux"
-    - "Instalando o Python no MacOS"
-    - "Outras formas de utilizar o Python"
+titulo: Python e Orientação a Objetos
+descricao: Aprenda Python e os princípios de orientação a objetos
+capitulos: 
+  -
+    titulo: "Como aprender Python"
+    arquivo: 01-como-aprender-python.md
+    codigo: como-aprender-python
+    secoes:
+      - titulo: "O que é realmente importante?"
+      - titulo: "Sobre os exercícios"
+      - titulo: "Tirando dúvidas e indo além"
+  -
+    titulo: "O que é Python"
+    arquivo: 02-o-que-e-python.md
+    codigo: o-que-e-python
+    secoes:
+      - titulo: "Python"
+      - titulo: "Breve História"
+      - titulo: "Interpretador"
+      - titulo: "Qual versão utilizar?"
+      - titulo: "Download"
+      - titulo: "Cpython, Jython, IronPython?"
+      - titulo: "PEP - O que são e pra que servem"
+      - titulo: "Onde usar e objetivos"
+      - titulo: "Primeiro programa"
+      - titulo: "Modo Interativo"
+      - titulo: "Modo Script"
+      - titulo: "Exercício: Modificando o programa"
+      - titulo: "O que pode dar errado?"
+  -
+    titulo: "Variáveis e tipos embutidos"
+    arquivo: 03-declarando-e-usando-variaveis.md
+    codigo: declarando-e-usando-variaveis
+    secoes:
+      - titulo: "Tipos embutidos (_built-ins_)"
+      - titulo: "Variáveis"
+      - titulo: "Para saber mais: Nomes de variáveis"
+      - titulo: "Instruções"
+      - titulo: "Operadores Aritméticos"
+      - titulo: "Strings"
+      - titulo: "Entrada do usuário"
+      - titulo: "Constantes"
+      - titulo: "Comando if"
+      - titulo: "Convertendo uma string para inteiro"
+      - titulo: "O comando elif"
+      - titulo: "Exercícios - Jogo da adivinhação"
+      - titulo: "Comando while"
+      - titulo: "Exercícios - Jogo com while"
+      - titulo: "Comando for"
+      - titulo: "Exercícios - Utilizando o for no jogo"
+  -
+    titulo: "Introdução ao Pycharm"
+    arquivo: 04-introducao-ao-pycharm.md
+    codigo: introducao-ao-pycharm
+    secoes:
+      - titulo: "IDE"
+      - titulo: "Pycharm"
+      - titulo: "Download e Instalação do PyCharm"
+      - titulo: "Criando um Projeto"
+      - titulo: "Executando código"
+      - titulo: "Principais Atalhos"
+  -
+    titulo: "Estrutura de dados"
+    arquivo: 05-estrutura-de-dados.md
+    codigo: estrutura-de-dados
+    secoes:
+      - titulo: "Exercícios: Jogo da Forca"
+      - titulo: "Sequências"
+      - titulo: "Conjuntos"
+      - titulo: "Dicionários"
+      - titulo: "Exercícios: Estrutura de dados"
+  -
+    titulo: "Funções"
+    arquivo: 06-funcoes.md
+    codigo: funcoes
+    secoes:
+      - titulo: "O que é uma função?"
+      - titulo: "Parâmetros de Função"
+      - titulo: "Função com retorno"
+      - titulo: "Retornando múltiplos valores"
+      - titulo: "Exercícios: Funções"
+      - titulo: "Número arbitrário de parâmetros (*args)"
+      - titulo: "Número arbitrário de chaves (**kwargs) "
+      - titulo: "Exercício - \*args e \*\*kwargs"
+      - titulo: "Exercício - Função jogar()"
+      - titulo: "Módulos e o comando import"
+  -
+    titulo: "Arquivos"
+    arquivo: 07-arquivos-e-modulos.md
+    codigo: arquivos-e-modulos
+    secoes:
+      - titulo: "Escrita de um arquivo"
+      - titulo: "Fechando um arquivo"
+      - titulo: "Escrevendo palavras em novas linhas"
+      - titulo: "Exercícios"
+      - titulo: "Lendo um arquivo"
+      - titulo: "Lendo linha por linha do arquivo"
+      - titulo: "Gerando um número aleatório"
+      - titulo: "Exercícios - Leitura de arquivos"
+      - titulo: "Para saber mais - comando with"
+      - titulo: "Melhorando nosso código"
+      - titulo: "Exercício - Refatorando o jogo da Forca"
+  -
+    titulo: "Orientação a Objetos"
+    arquivo: 08-orientacao-a-objetos.md
+    codigo: orientacao-a-objetos
+    secoes:
+      - titulo: "Funcionalidades"
+      - titulo: "Exercício: Criando uma conta"
+      - titulo: "Classes e Objetos"
+      - titulo: "Construtor"
+      - titulo: "Métodos"
+      - titulo: "Métodos com retorno"
+      - titulo: "Objetos são acessados por referência"
+      - titulo: "Método transfere"
+      - titulo: "Continuando com atributos"
+      - titulo: "Tudo é objeto"
+      - titulo: "Composição"
+      - titulo: "Para saber mais: outros métodos de uma classe"
+      - titulo: "Exercício: Primeira classe Python"
+  -
+    titulo: "Modificadores de acesso e métodos de classe"
+    arquivo: 09-encapsulamento.md
+    codigo: encapsulamento
+    secoes:
+      - titulo: "Encapsulamento"
+      - titulo: "Atributos de classe"
+      - titulo: "Métodos de classe"
+      - titulo: "Para saber mais - Slots"
+      - titulo: "Exercícios:"
+  -
+    titulo: "Pycharm e Orientação a objetos"
+    arquivo: 10-pycharm-ide.md
+    codigo: pycharm-ide
+    secoes:
+      - titulo: "Criando um Projeto"
+      - titulo: "Criando uma classe"
+      - titulo: "Executando código"
+      - titulo: "Criando métodos"
+      - titulo: "Exercício - Criando projeto banco no PyCharm"
+  -
+    titulo: "Herança e Polimorfismo"
+    arquivo: 11-heranca-e-classes-abstratas.md
+    codigo: heranca-e-classes-abstratas
+    secoes:
+      - titulo: "Repetindo código?"
+      - titulo: "Reescrita de métodos"
+      - titulo: "Invocando o método reescrito"
+      - titulo: "Polimorfismo"
+      - titulo: "Duck Typing"
+      - titulo: "Exercício: Herança e Polimorfismo"
+      - titulo: "Classes Abstratas"
+      - titulo: "Exercícios - classes abstratas"
+  -
+    titulo: "Herança Múltipla e Interfaces"
+    arquivo: 12-heranca-multipla-e-interfaces.md
+    codigo: heranca-multipla-e-interfaces
+    secoes:
+      - titulo: "Problema do diamante "
+      - titulo: "Mix-ins "
+      - titulo: "Para sabe mais -  Tkinter"
+      - titulo: "Exercícios - Mix-Ins"
+      - titulo: "Interfaces"
+      - titulo: "(Opcional) Exercícios - Interfaces e classes Abstratas"
+  -
+    titulo: "Exceções e Erros"
+    arquivo: 13-excecoes-e-erros.md
+    codigo: excecoes-e-erros
+    secoes:
+      - titulo: "Exceções e tipos de erros"
+      - titulo: "Tratando Exceções"
+      - titulo: "Levantando exceções"
+      - titulo: "Definir uma Exceção"
+      - titulo: "Para saber mais: finally"
+      - titulo: "Árvore de Exceções"
+      - titulo: "Exercícios: Exceções"
+      - titulo: "Outros Erros"
+  -
+    titulo: "Collections"
+    arquivo: 14-collections.md
+    codigo: collections
+    secoes:
+      - titulo: "UserList, UserDict e UserString"
+      - titulo: "Para saber mais"
+      - titulo: "Collections abc"
+      - titulo: "Construindo um Container"
+      - titulo: "Sized"
+      - titulo: "Iterable "
+      - titulo: "Exercício: Criando nossa Sequência"
+  -
+    titulo: "Apêndice - Python2 ou Python3?"
+    arquivo: 15-apendice-versao.md
+    codigo: apendice-versao
+    secoes:
+      - titulo: "Quais as diferenças?"
+      - titulo: "A função print()"
+      - titulo: "A função input()"
+      - titulo: "Divisão decimal"
+      - titulo: "Herança"
+  -
+    titulo: "Apêndice - Instalação"
+    arquivo: 16-apendice-instalacao.md
+    codigo: apendice-instalacao
+    secoes:
+      - titulo: "Instalando o Python no Windows"
+      - titulo: "Instalando o Python no Linux"
+      - titulo: "Instalando o Python no MacOS"
+      - titulo: "Outras formas de utilizar o Python"
+
