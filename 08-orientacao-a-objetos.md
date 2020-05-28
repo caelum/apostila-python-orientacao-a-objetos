@@ -714,6 +714,7 @@ class Conta:
         else:
             self.saldo -= valor
             self.historico.transacoes.append("saque de {}".format(valor))
+            return True
 
     def extrato(self):
         print("numero: {} \nsaldo: {}".format(self.numero, self.saldo))
