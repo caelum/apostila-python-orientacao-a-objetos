@@ -599,7 +599,7 @@ A função `append()` só consegue inserir um elemento por vez. Se quisermos ins
     >>> lista + ['seis']
     ['zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis']
     >>> lista * 2
-    ['zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis']
+    ['zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'zero', 'um', 'dois', 'três', 'quatro', 'cinco']
 ```
 
   
@@ -967,8 +967,9 @@ Vamos tentar resolver alguns desafios. Dada a lista = [12, -2, 4, 8, 29, 45, 78,
             #... seu código aqui
             #Numeros pares
             if( lista[index] % 2 == 0):
-                listaPares.append(lista[index]) 
-            print(listaPares)
+                listaPares.append(lista[index])
+
+        print(listaPares)
     ```
 
 1. Para resolver o item `d`, é preciso verificar se o item atual da lista a ser percorrida coincide com o elemento em seu primeiro índice:
@@ -993,7 +994,7 @@ Vamos tentar resolver alguns desafios. Dada a lista = [12, -2, 4, 8, 29, 45, 78,
         for index in range(0, len(lista)):
             #... seu código aqui
             #Media de elementos
-            mediaElementos =+ mediaElementos + lista[index]
+            mediaElementos = mediaElementos + lista[index]
         mediaElementos = mediaElementos / len(lista)
         
         print(mediaElementos)
@@ -1050,7 +1051,7 @@ Vamos tentar resolver alguns desafios. Dada a lista = [12, -2, 4, 8, 29, 45, 78,
                 somaNegativos = somaNegativos + lista[index]
 
             #Media do somatório dos elementos
-            mediaElementos =+ mediaElementos + lista[index]
+            mediaElementos = mediaElementos + lista[index]
 
 
         mediaElementos = mediaElementos / len(lista)

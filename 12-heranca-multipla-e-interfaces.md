@@ -142,7 +142,7 @@ Essa ambiguidade é conhecida como o problema do diamante, ou problema do losang
 Toda classe tem um atributo `__mro__` que retorna uma tupla de referências das superclasses na ordem MRO - da classe atual até a classe `object`. Vejamos o MRO da classe `D`:
 
 ``` python
-print(D.mro())
+print(D.__mro__)
 ```
 
 Saída:
@@ -365,7 +365,7 @@ Esse pacote tem mais de 20 anos e é um exemplo de como a herança múltipla era
         from conta import ContaCorrente, SeguroDeVida, TributavelMixIn
 
         cc1 = ContaCorrente('123-4', 'João', 1000.0)
-        cc2 = ContaCorrente('123-4', 'José', 1000.0)
+        cc2 = ContaCorrente('123-5', 'José', 1000.0)
         seguro1 = SeguroDeVida(100.0, 'José', '345-77')
         seguro2 = SeguroDeVida(200.0, 'Maria', '237-98')
 
